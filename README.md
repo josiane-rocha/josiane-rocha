@@ -12,7 +12,7 @@ Eu sou Josiane, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvi
 
 Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreiras e trabalhos sociais.
 
-<a href="https://www.instagram.com/joosiie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.linkedin.com/in/josiane-rocha-576801166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://open.spotify.com/playlist/1MaZ8LR0UiXRqp8bkJRvdg?si=TLqsv7yMQcSFztqUhdAbow&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/joosiie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.linkedin.com/in/josiane-rocha-576801166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://open.spotify.com/playlist/1MaZ8LR0UiXRqp8bkJRvdg?si=TLqsv7yMQcSFztqUhdAbow&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a><a href="mailto:josie.rocha.93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 <h2>💻🚀  Tecnologias e ferramentas<h2>
