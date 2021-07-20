@@ -20,11 +20,11 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
   
 ## ⚙🚀    Gráficos Estatísticos
   <div  align="center">
- <a href="https://github.com/josiane-rocha"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josiane-rocha&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=josiane-rocha&hide_border=true&theme=nightowl&show_icons=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiane-rocha&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
-  </div>
+ <a href="https://github.com/WelissonLuca"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelissonLuca&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WelissonLuca&hide_border=true&theme=nightowl&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelissonLuca&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+</div>
   
  
   
