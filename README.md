@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Bem-vindos ao Meu Perfil 🚀</h1>
 
-![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
-
 Eu sou Josiane, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Procurando emprego na área de engenheira de software
@@ -28,8 +26,7 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiane-rocha&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
     
 </div>
-  
-    ![Snake animation](https://github.com/fcintra/fcintra/blob/output/github-contribution-grid-snake.svg)
-  
-</div> 
-  
+ 
+## ⚙🚀    Contribuições
+
+  ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
