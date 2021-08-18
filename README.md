@@ -25,7 +25,7 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=josiane-rocha&hide_border=true&theme=nightowl&show_icons=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiane-rocha&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
     
-    ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
     
 </div>
   
