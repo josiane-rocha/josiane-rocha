@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Bem-vindos ao Meu Perfil 🚀</h1>
 
-Eu sou Josiane, moro em São Paulo, Brasil, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
+Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvolvimento de Sistemas e Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Procurando emprego na área de engenheira de software
 - 🚀 Estudando para me tornar uma dev fullstack
