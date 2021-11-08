@@ -1,7 +1,6 @@
 <p align="center">
   <h1 align="center">Bem-vindos ao Meu Perfil 🚀</h1>
   <p align="center">
-  <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
 </p>
 
  <img src="Gif.gif">
