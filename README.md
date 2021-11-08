@@ -1,9 +1,8 @@
 <p align="center">
   <h1 align="center">Bem-vindos ao Meu Perfil 🚀</h1>
   <p align="center">
+  <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
 </p>
-
- <img src="Gif.gif">
 
 Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvolvimento de Sistemas e Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
