@@ -38,6 +38,6 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
   
   <img align="left" alt="Programadora" height="150" src="Umiko.gif" data-canonical-src="Umiko.gif" style="max-width: 100%;">
   
-   <img align="center" alt="Programadora" height="150" src="Program.webp" data-canonical-src="Program.webp" style="max-width: 100%;">
+   <img align="center-right" alt="Programadora" height="150" src="Program.webp" data-canonical-src="Program.webp" style="max-width: 100%;">
   
 
