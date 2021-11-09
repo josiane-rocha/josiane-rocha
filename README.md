@@ -34,5 +34,6 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
 
   ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
   
-  <img src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+  <p align="left">
+  <img src="Programadora.gif">
 
