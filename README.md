@@ -34,7 +34,7 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
   
   ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
   
-  <img align="right" alt="Programadora" height="150" src="Programadora.gif" data-canonical-src="Programadora.gif" style="max-width: 100%;">
+  <img align="right" alt="Programadora" height="150" src="Prog.gif" data-canonical-src="Prog.gif" style="max-width: 100%;">
   
   <img align="left" alt="Programadora" height="150" src="Umiko.gif" data-canonical-src="Umiko.gif" style="max-width: 100%;">
   
