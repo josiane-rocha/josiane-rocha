@@ -31,7 +31,8 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
 </div>
  
 ## ⚙🚀    Contribuições Atuais
-
+                                                                                                          <p align="left">
+                                                                                                          <img src="Programing Fem.gif">
   ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
   
   <p align="left">
