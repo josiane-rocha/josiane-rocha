@@ -33,3 +33,5 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
 ## ⚙🚀    Contribuições Atuais
 
   ![Snake animation](https://github.com/josiane-rocha/josiane-rocha/blob/output/github-contribution-grid-snake.svg)
+  
+  width=473&height=473" data-canonical-src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" style="max-width: 100%;">
