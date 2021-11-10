@@ -38,7 +38,8 @@ Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, traba
   <img align="center" alt="Programadora" height="150" src="Programing Fem.gif" data-canonical-src="Programing Fem.gif" style="max-width: 100%;">
   
   <img align="left" alt="Programadora Design" height="150" src="Umiko.gif" data-canonical-src="Umiko.gif" style="max-width: 100%;">
-  
-   <img align="right" alt="Programadora Comunicadora" height="150" src="Program.webp" data-canonical-src="Program.webp" style="max-width: 100%;">
+     
+  <img align="right" alt="Programadora Design" height="150" src="Umiko.gif" data-canonical-src="Umiko.gif" style="max-width: 100%;">
+
   
 
