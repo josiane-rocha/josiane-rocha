@@ -6,7 +6,7 @@
 
 Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvolvimento de Sistemas e Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
-- 🏢 Trabalhando como engenheira de dados.
+- 🏢 Estagiando no Itaú Unibanco.
 - 🚀 Estudando para me tornar uma dev fullstack.
 - ✨ Voluntária no @institutoreinodobem.
 - 💁 Interessada em ajudar pessoas a ingressarem na área de tecnologia e desenvolvimento.
