@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
 </p>
 
-Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvolvimento de Sistemas e Engenharia da Computação. Apaixonada por tecnologia, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
+Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvolvimento de Sistemas e Engenharia da Computação. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Estagiando no Itaú Unibanco.
 - 🚀 Estudando para me tornar uma dev fullstack.
