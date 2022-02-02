@@ -8,6 +8,7 @@ Eu sou Josiane, moro em São Paulo, Brasil, sou estudante de Análises e Desenvo
 
 - 🏢 Estagiando no Itaú Unibanco.
 - 🚀 Estudando para me tornar uma dev fullstack.
+- 👩‍💻 Estudando para me tornar uma engenheira de dados.
 - ✨ Voluntária no @institutoreinodobem.
 - 💁 Interessada em ajudar pessoas a ingressarem na área de tecnologia e desenvolvimento.
 
