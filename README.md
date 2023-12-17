@@ -4,15 +4,17 @@
   <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
 </p>
 
-Eu sou Josiane, moro em São Paulo, Brasil, formada em Análises e Desenvolvimento de Sistemas e tecnologia da informação, e estudante de Engenharia da Computação. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
+Eu sou Josiane, sou de São Paulo, Brasil. Tenho formação em Análises e Desenvolvimento de Sistemas e Tecnologia da Informação. Atualmente, sou estudante de Engenharia da Computação, além de estar cursando um MBA em Data Science e Analytics. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Trabalhando no Itaú Unibanco.
-- 🚀 Dev fullstack e engenheira de dados.
+- 🚀 Dev fullstack e analista de dados.
 - 👩‍💻 Estudando para me tornar uma engenheira de machine learning.
 - ✨ Voluntária no @institutoreinodobem.
+- 🌟 Voluntária na @IBMA.
+- ❤️ Missionária.
 - 💁 Interessada em ajudar pessoas a ingressarem na área de tecnologia e desenvolvimento.
 
-Pode me chamar para conversar sobre tecnologia, desenvolvimento, carreira, trabalhos sociais e missionários.
+Estou disponível para discutir temas como tecnologia, desenvolvimento, trajetória profissional, assim como projetos sociais e missionários. Fique à vontade para me chamar para uma conversa sobre esses assuntos.
 
 <a href="https://www.instagram.com/josie.rocha.tech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.linkedin.com/in/josiane-oliveira-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://open.spotify.com/playlist/1MaZ8LR0UiXRqp8bkJRvdg?si=TLqsv7yMQcSFztqUhdAbow&utm_source=copy-link&dl_branch=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a><a href="mailto:josiane.oliveira.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.kaggle.com/josianeoliveiratech/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 
