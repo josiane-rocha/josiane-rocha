@@ -7,8 +7,8 @@
 Eu sou Josiane, sou de São Paulo, Brasil. Tenho formação em Análises e Desenvolvimento de Sistemas e Tecnologia da Informação. Atualmente, sou estudante de Engenharia da Computação, além de estar cursando um MBA em Data Science e Analytics. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Trabalhando no Itaú Unibanco.
-- 🚀 Dev fullstack e analista de dados.
-- 👩‍💻 Estudando para me tornar uma engenheira de machine learning.
+- 🚀 Analista de dados e dev fullstack.
+- 👩‍💻 Estudando para me tornar uma cientista de dados.
 - ✨ Voluntária no @institutoreinodobem.
 - 🌟 Voluntária na @IBMA.
 - ❤️ Missionária.
