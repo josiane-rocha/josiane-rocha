@@ -9,7 +9,7 @@ Eu sou Josiane, sou de São Paulo, Brasil. Tenho formação em Análises e Desen
 - 🏢 Trabalhando no Itaú Unibanco.
 - 🚀 Analista de dados.
 - 👩‍💻 Estudando para me tornar uma cientista de dados.
-- 💻 Estudando para me tornar uma dev fullstack.
+- 💻 Estudando para me tornar uma engenheira de machine learning.
 - ✨ Voluntária no @institutoreinodobem.
 - 🌟 Voluntária na @IBMA.
 - ❤️ Missionária.
