@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
 </p>
 
-Eu sou Josiane, sou de São Paulo, Brasil. Tenho formação em Análises e Desenvolvimento de Sistemas e Tecnologia da Informação. Atualmente, sou estudante de Engenharia da Computação, além de estar cursando um MBA em Data Science e Analytics. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
+Eu sou Josiane, sou de São Paulo, Brasil. Tenho formação em Análises e Desenvolvimento de Sistemas, Tecnologia da Informação e Engenharia da Computação. Atualmente estou cursando um MBA em Data Science e Analytics. Apaixonada por tecnologia, ciências de dados, inteligência artificial, programação, desenvolvimento, inovação e possibilidades. 
 
 - 🏢 Trabalhando no Itaú Unibanco.
 - 🚀 Analista de dados.
-- 👩‍💻 Estudando para me tornar uma cientista de dados.
-- 💻 Estudando para me tornar uma engenheira de machine learning.
+- 👩‍💻 Em migração para cientista de dados.
+- 💻 Estudando engenheira de machine learning.
 - ✨ Voluntária no @institutoreinodobem.
 - 🌟 Voluntária na @IBMA.
 - ❤️ Missionária.
